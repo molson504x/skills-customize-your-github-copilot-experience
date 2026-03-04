@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "functions-modular-design",
+      "title": "Functions and Modular Design",
+      "description": "Build reusable Python functions and organize code across modules with imports.",
+      "path": "assignments/functions-modular-design",
+      "dueDate": "2026-03-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
